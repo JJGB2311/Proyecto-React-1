@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "bootstrap": "4.3.1",
+    "md5": "^2.2.1",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-router-dom": "4.3.1",
@@ -33,13 +34,13 @@
     "not op_mini all"
   ],
   "main": "index.js",
+  "keywords": [],
+  "author": "Juan Gámez <jgamezb@miumg.edu.gt>",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JJGB2311/Proyecto-React-1.git"
   },
-  "keywords": [],
-  "author": "Juan Gámez <jgamezb@miumg.edu.gt>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JJGB2311/Proyecto-React-1/issues"
   },
